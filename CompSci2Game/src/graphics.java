@@ -1,10 +1,7 @@
-/**
- * Created by 226784 on 1/27/2017.
- */
+package game;
 
 import java.awt.FlowLayout;
 import javax.swing.*;
-import javax.swing.JLabel;
 
 public class graphics extends JFrame {
 
@@ -18,15 +15,15 @@ public class graphics extends JFrame {
         super("KEEEP THE BALLOON UUPPPPP");
         setLayout(new FlowLayout());
 
-        item1 = new JLabel("TESTTTTTTT");
+        item1 = new JLabel("DONT LET THE BALOON FALL!");
         item1.setToolTipText("this is a major teest");
         add(item1);
 
-
-        ImageIcon image = new ImageIcon("C:\\Users\\226784\\IdeaProjects\\CompSci2Game\\src\\head.png");
+        ImageIcon image = new ImageIcon("C:\\Users\\227385\\Pictures\\whyzay\\dogekappa10.png");
         JLabel imageLabel = new JLabel(image);
-        imageLabel.setBounds(10,10,400,400);
+        imageLabel.setBounds(100,100,32,32);
         imageLabel.setVisible(true);
+
 
         add(imageLabel);
 
