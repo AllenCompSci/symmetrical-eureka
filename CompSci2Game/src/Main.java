@@ -1,12 +1,14 @@
 /**
  * Created by 226784 on 1/10/2017.
  * Ammar Sheikh
- Testing Code
  */
+// Not keep the Baloon up, Running Tests on this code to implement in game
 
-//Running Tests on this code to implement
 //JDK in program file>Java>java 1.8;
+// FIND SOURCE FILE AND MOVE PNG things TO IT----> Local Disk
+// DOWNLOAD AN API??
 
+//import com.sun.java.util.jar.pack.Attribute;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -19,10 +21,13 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
+import java.awt.FlowLayout;
 
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
 import javax.swing.Timer;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
 
 public class Main extends JPanel implements ActionListener {
 
@@ -60,14 +65,30 @@ public class Main extends JPanel implements ActionListener {
         setPreferredSize(new Dimension(B_WIDTH, B_HEIGHT));
         loadImages();
         initGame();
+
+
     }
 
+    //ADDED JFRAME
+/*
+    public class screen extends JFrame{
+        private JLabel item1;
+
+        public screen(){
+            super("TEST");
+            setLayout(new FlowLayout());
+
+            item1 = new JLabel("TESTTTTTTT");
+            item1.setToolTipText("this is a major teest");
+            add(item1);
+        }
+}*/
     private void loadImages() {
 
-        ImageIcon iid = new ImageIcon("dot.png");
+        ImageIcon iid = new ImageIcon("dot2.png");
         ball = iid.getImage();
 
-        ImageIcon iia = new ImageIcon("apple.png");
+        ImageIcon iia = new ImageIcon("apple2.png");
         apple = iia.getImage();
 
         ImageIcon iih = new ImageIcon("head.png");
