@@ -1,15 +1,9 @@
 # symmetrical-eureka
 
+Keep the Baloon Up (In Progress)
 
+Flowchart: https://www.gliffy.com/go/share/s00ijreicb078ljdses4
 
-
-
-Keep the Baloon Up *In Progress*
-
-(Read Me instructions 1 (#) at the begining of a line followed by space for Small Heading 2(#) for large font heading. Keep Weekly Progress in Read Me)
-
-https://www.gliffy.com/go/share/s00ijreicb078ljdses4
-above is the link to the FLOWCHART+
 # Jordan's Progress:
 
 ## Week 1 Progress:
@@ -26,6 +20,7 @@ This week with Jordan I created the balloon that we will implement on our main m
 Theoretically the gif that I drew would run in our main menu but I am unsure wether it will once I implement images into the code.
 Implemented images of the balloon into the code. Tried to put hand in but ran out of time.
 
+## Week 2 Progress:
 
 # Ammar's Progress
 
