@@ -1,6 +1,7 @@
 # symmetrical-eureka
 
 
+# WEEK 1 Progress:
 
 # JORDAN ALMEIDA "READ ME"
 
@@ -21,3 +22,13 @@ I came during lunch with ammar and josh was here between lunch and 7th period .
 This week with Jordan I created the balloon that we will implement on our main menu secreen and may implement into the game itself.
 Theoretically the gif that I drew would run in our main menu but I am unsure wether it will once I implement images into the code.
 Implemented images of the balloon into the code. Tried to put hand in but ran out of time.
+
+
+## Ammar's Progress
+  ^ Added JFrame and learned how to load images.
+  
+  ^ Created Code for various clases etc.
+  
+  ^ Worked to adjust/customize jframe/graphics etc.
+  
+  # REST OF PROGRESS WILL BE STORED IN PROGRESS FOLDER 
