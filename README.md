@@ -20,7 +20,6 @@ This week with Jordan I created the balloon that we will implement on our main m
 Theoretically the gif that I drew would run in our main menu but I am unsure wether it will once I implement images into the code.
 Implemented images of the balloon into the code. Tried to put hand in but ran out of time.
 
-## Week 2 Progress:
 
 # Ammar's Progress
 
@@ -33,3 +32,6 @@ Implemented images of the balloon into the code. Tried to put hand in but ran ou
   ^ Worked to adjust/customize jframe/graphics etc.
   
   # REST OF PROGRESS WILL BE STORED IN PROGRESS FOLDER 
+  
+  
+## Week 2 Progress:
