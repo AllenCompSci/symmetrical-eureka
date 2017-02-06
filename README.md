@@ -21,8 +21,8 @@ research..
 http://www.javaworld.com/article/2077117/client-side-java/animation-in-java-applets.html
 for moving objects across screen with keys
 
-for sound- download song and change it to .wave file 
-
+for sound- download song and change it to .wav file 
+downlaoaded call casting - nearly done implimenting sound.
 
 # Josh's Progress
 
