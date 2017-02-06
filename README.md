@@ -16,6 +16,14 @@ I came during lunch with ammar and josh was here between lunch and 7th period .
 got piskel background to enlarge and show up on j frame 
 (implemented into game)
 
+2/6 
+research..
+http://www.javaworld.com/article/2077117/client-side-java/animation-in-java-applets.html
+for moving objects across screen with keys
+
+for sound- download song and change it to .wave file 
+
+
 # Josh's Progress
 
 ## Week 1 Progress:
