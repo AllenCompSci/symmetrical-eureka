@@ -36,6 +36,13 @@ Implemented images of the balloon into the code. Tried to put hand in but ran ou
 got piskel background to enlarge and show up on j frame 
 (implemented into game)
 
+## Week 2 Progress:
+
+2/6
+absent
+
+2/8
+
 # Ammar's Progress
 
 ## Week 1 Progress:
