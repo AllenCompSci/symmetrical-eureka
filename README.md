@@ -41,7 +41,9 @@ got piskel background to enlarge and show up on j frame
 2/6
 absent
 
-2/8
+2/8 I implemented the hand that will be used to poke the balloon as a label
+
+2/10 I'm attempting to implement our graphics in the way that will enable us to add images to our games. Attempting to implement the sound into the game with Jordan.
 
 # Ammar's Progress
 
