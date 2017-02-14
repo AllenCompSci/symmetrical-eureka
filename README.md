@@ -56,6 +56,11 @@ absent
 
 2/10 I'm attempting to implement our graphics in the way that will enable us to add images to our games. Attempting to implement the sound into the game with Jordan.
 
+## Week 3 Progress:
+
+2/14Did the multiple choice packets and implemented the real music for our game. Went and got water for Jordan.
+
+
 # Ammar's Progress
 
 ## Week 1 Progress:
