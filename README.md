@@ -29,6 +29,10 @@ Sound works now. yay.
 -Jordan and Josh
 2/14
 collision detection research
+http://gamedev.stackexchange.com/questions/118136/collision-logic-with-animations-java
+- moving characters using keys.         - +or - speed               -position = velocity when collides
+
+
 
 
 # Josh's Progress
