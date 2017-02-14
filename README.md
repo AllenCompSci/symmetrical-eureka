@@ -24,6 +24,11 @@ for moving objects across screen with keys
 for sound- download song and change it to .wav file 
 downlaoaded call casting - nearly done implimenting sound.
 
+2/12
+Sound works now. yay.  
+-Jordan and Josh
+
+
 # Josh's Progress
 
 ## Week 1 Progress:
