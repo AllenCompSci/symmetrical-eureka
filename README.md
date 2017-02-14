@@ -27,6 +27,8 @@ downlaoaded call casting - nearly done implimenting sound.
 2/12
 Sound works now. yay.  
 -Jordan and Josh
+2/14
+collision detection research
 
 
 # Josh's Progress
