@@ -21,39 +21,43 @@ public class Contain {
     public static void main(String [] args){
 
 
-       Move s = new Move();
+    /*  Move s = new Move();
        JFrame f = new JFrame();
        f.add(s);
        f.setVisible(true);
        f.setSize(600,400);
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         f.setTitle("fdsafgdsaf");
+           */
 
+              /*  Move s = new Move();
+                s.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+                s.setVisible(true);
+                s.setSize(500,500);
+                s.pack();
 
-
+*/
 
 
 
 
        // Main n = new Main();
 
-          /* JFrame f = new JFrame();
-            graphics s = new graphics();
-            f.add(s);
-            f.setVisible(true);
+        Move s = new Move();
+        s.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        s.setSize(800, 600);
+       // f.add(s);
+        s.setVisible(true);
 
-            f.setLocationRelativeTo(null);
-            f.setSize(1000,750);*/
 
        // Move m = new Move();
 
-        /*graphics lol = new graphics();
+      /*  graphics lol = new graphics();
         lol.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         lol.setSize(1000,750);
         lol.setLocationRelativeTo(null);
         lol.setVisible(true);
-/
-
+*/
 
         //Main.screen lol = new Main.screen();
        // lol.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);*/
