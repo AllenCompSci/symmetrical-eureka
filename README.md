@@ -32,6 +32,10 @@ collision detection research
 http://gamedev.stackexchange.com/questions/118136/collision-logic-with-animations-java
 - moving characters using keys.         - +or - speed               -position = velocity when collides
 
+2/16
+game over screen made 
+
+2/21
 
 
 
