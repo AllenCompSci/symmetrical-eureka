@@ -62,8 +62,15 @@ absent
 
 ## Week 3 Progress:
 
-2/14Did the multiple choice packets and implemented the real music for our game. Went and got water for Jordan.
+2/14 Did the multiple choice packets and implemented the real music for our game. Went and got water for Jordan.
 
+2/16 We made the play screen and the game over screen for the game.
+
+## Week 4 Progress:
+
+2/21 Worked on putting of our graphics to the version of Brett's game to see if we might be able use his resources to write our game.
+
+2/23 Planning on putting our graphics into Ammar's pushed source code.
 
 # Ammar's Progress
 
