@@ -84,5 +84,7 @@ absent
   
   # REST OF PROGRESS WILL BE STORED IN PROGRESS FOLDER 
   
+  4/5 fixing basic collision bugs, added mouse movment and removed cursor.
+  
   
 ## Week 2 Progress:
