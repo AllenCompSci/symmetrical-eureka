@@ -22,6 +22,8 @@ import java.awt.geom.*;
 import java.security.Key;
 import java.util.Random;
 
+//MAIN MENU http://www.java2s.com/Code/Java/Swing-JFC/Createamainmenu.htm
+
 
 //http://valk.id.au/blog/awesome/how-to-run-java-applets-in-intellij-idea/
 
@@ -157,9 +159,7 @@ public class Move extends JPanel implements ActionListener, KeyListener,MouseMot
                 }
             }
 
-    @Override
     public void mouseDragged(MouseEvent e) {
-
     }
 
     public void mouseMoved(MouseEvent e){
