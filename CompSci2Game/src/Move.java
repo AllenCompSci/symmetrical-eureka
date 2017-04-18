@@ -80,6 +80,9 @@ public class Move extends JPanel implements ActionListener, KeyListener,MouseMot
                     g.drawImage(background,0,0,this);
                     g.drawImage(hand, x, y, this);
                     g.drawImage(balloon,ballx,bally,this);
+                        g.setFont(new Font("Garamond", 1 , 24));
+                        g.setColor(Color.WHITE);
+                        g.drawString("Score:" + " " + count ,10,30 );
 
 
 
