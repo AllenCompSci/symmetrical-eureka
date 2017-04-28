@@ -1,0 +1,10 @@
+Hand dimensions
+15X20 pixels
+
+Balloon Dimesions
+
+(including string)
+120x216
+
+(NOT including string)
+120x128
