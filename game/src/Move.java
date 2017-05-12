@@ -40,6 +40,7 @@ public class Move extends JPanel implements ActionListener, KeyListener,MouseMot
     private Image background  = new ImageIcon("C:\\Users\\227385\\IdeaProjects\\game\\src\\background.png").getImage();
     private Image hand = new ImageIcon ("C:\\Users\\227385\\IdeaProjects\\game\\src\\hand.png").getImage();
     private Image balloon =  new ImageIcon ("C:\\Users\\227385\\IdeaProjects\\game\\src\\balloon.png").getImage();
+    private Image ogre = new ImageIcon("C:\\Users\\227385\\IdeaProjects\\game\\src\\game over noob.fw.png").getImage();
 
     Timer t = new Timer(5,this);
     int x=0,y=0, velx=0, vely=0;
@@ -86,7 +87,7 @@ boolean gameOver = false;
 
         if(gameOver){
             try {
-                Thread.sleep(999);
+                Thread.sleep(3999);
                 System.exit(0);
             }catch (Exception e){
 
@@ -96,8 +97,9 @@ boolean gameOver = false;
         if(bally==790 || gameOver){
 
             g.setFont(new Font("Garamond", 1 , 72));
-            g.setColor(Color.WHITE);
-            g.drawString("GAME OVER kek", 720, 540);
+            g.setColor(Color.BLACK);
+            //g.drawString("GAME OVER kek", 720, 540);
+            g.drawImage(ogre,0,0,this);
             g.drawString("Score: " + count, 840, 640);
             gameOver = true;
         }
@@ -118,11 +120,9 @@ boolean gameOver = false;
     public void actionPerformed(ActionEvent e){
         Random rand = new Random();
         Random rand2 = new Random();
-
         if(x==(ballx) && y==(bally) || x <= (ballx+100) && y<=(bally+130) && x >= ballx && y>=bally ) {
             ballvy = -(Math.abs(ballvy));
             count++;
-
             ballvx = rand.nextInt(20);
 
         }
@@ -155,19 +155,19 @@ boolean gameOver = false;
 
     }
     public void up(){
-        vely = -2;
+        vely = -10;
         velx = 0;
     }
     public void down(){
-        vely = 2;
+        vely = 10;
         velx = 0;
     }
     public void left(){
-        velx = -2;
+        velx = -10;
         vely = 0;
     }
     public void right(){
-        velx = 2;
+        velx = 10;
         vely = 0;
     }
 
