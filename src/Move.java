@@ -123,7 +123,7 @@ boolean gameOver = false;
         if(x==(ballx) && y==(bally) || x <= (ballx+100) && y<=(bally+130) && x >= ballx && y>=bally ) {
             ballvy = -(Math.abs(ballvy));
             count++;
-            ballvx = rand.nextInt(20);
+            ballvx = rand.nextInt(40);
 
         }
 
